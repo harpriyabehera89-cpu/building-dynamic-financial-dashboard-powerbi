@@ -1,5 +1,12 @@
 # 📊 Building Dynamic Financial Dashboard using Power BI
 
+<p align="center">
+<img src="images/hero-banner.png" alt="Project Banner" width="100%">
+</p>
+
+## 📌 Project Overview
+# 📊 Building Dynamic Financial Dashboard using Power BI
+
 ## 📌 Project Overview
 
 This project demonstrates how Power BI can transform financial data into interactive dashboards for business decision-making. The dashboard provides insights into revenue, assets, liabilities, borrowings, reserves, and overall financial performance using dynamic visualizations.
