@@ -1,10 +1,9 @@
 # 📊 Building Dynamic Financial Dashboard using Power BI
 
 <p align="center">
-<img src="images/hero-banner.png" alt="Project Banner" width="100%">
-</p>
+
 <img src="hero-banner.png" alt="Project Banner" width="100%">
-## 📌 Project Overview
+
 # 📊 Building Dynamic Financial Dashboard using Power BI
 
 ## 📌 Project Overview
