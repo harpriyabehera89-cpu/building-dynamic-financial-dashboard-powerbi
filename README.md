@@ -4,7 +4,6 @@
 
 <img src="hero-banner.png" alt="Project Banner" width="100%">
 
-# 📊 Building Dynamic Financial Dashboard using Power BI
 
 ## 📌 Project Overview
 
